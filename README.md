@@ -1,6 +1,6 @@
 # taskwithprovider
 
-A new Flutter project.
+A new Flutter project. Working With Provider to Achieve some high Level Management. 
 
 ## Getting Started
 
